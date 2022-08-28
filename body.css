@@ -1,0 +1,159 @@
+
+    .four{
+        height: 550px;
+        width: 850px;
+        background-image: url("images/jerry.jpg");
+        margin-left: 400px;
+        background-size: cover;
+        position: relative;
+       }
+       .five{
+        background-color: white;
+        height: 330px;
+        width: 400px;
+        position: absolute;
+        left: -25%;
+        top: 100px;
+        opacity: 60%;
+        color: black;
+       }
+       .fiv{
+        font-size: 50px;
+        padding-top: 20px;
+        opacity: none;
+       }
+       .six{
+        height: 120px;
+        width: 100%;
+        background-color: rgb(238, 238, 238);
+        position: relative;
+        margin-top: 70px;
+    }
+    .sixx{
+        position: absolute;
+        left: 35%;
+        padding-bottom: 10px;
+        color: rgb(37, 32, 32);
+    }
+    .seven{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 40px;
+    }
+    .micro{
+    font-style: italic;
+    color: rgb(51, 51, 47);
+    }
+    .entre{
+    font-style: italic;
+    color: rgb(51, 51, 47);
+    }
+    .fort{
+    font-style: italic;
+    color: rgb(51, 51, 47);
+    }
+    .busi{
+    font-style: italic;
+    color: rgb(51, 51, 47);
+    }
+    .mash{
+    font-style: italic;
+    color: rgb(51, 51, 47);
+    }
+    .eig{
+        height: 25px;
+        width: 25px;
+       }
+       .big{
+        height: 25px;
+        width: 25px;
+       }
+       .eight{
+        display: flex;
+        margin-top: 150px;
+        justify-content: space-between;
+        align-content: center;
+       }
+       .deals{
+        margin-top: 0px;
+       }
+       .online{
+        margin-top: -20px;
+        font-style: italic;
+        font-size: small;
+       }
+       .eigh{
+        margin-top: 0px;
+       }
+       .eightt,.eighttt,.eightttt{
+        width: 200px;
+        height: 300px;
+       }
+       .cons{
+        margin-top: -15px;
+        font-style: italic;
+        font-size: small;
+       }
+       .plan{
+        font-weight: bold;
+        font-size: large;
+        color: rgb(32, 32, 56);
+       }
+       .for{
+        font-style: italic;
+        font-size: small;}
+        .pro{
+            margin-top: 100px;
+            color: black;
+            margin-right: 150px;
+           }
+           .main{
+            width: 1100px;
+            height: 400px;
+            background-color: rgb(32, 32, 56);
+            margin-top: 100px;
+            color: white;
+           }
+           .start{
+            display: flex;
+            justify-content: space-between;
+            margin-left: 100px;
+            margin-left: 100px;
+           }
+           .longest{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 70px;
+            margin-right: 150px;
+            margin-left: 100px;
+           }
+           .something{
+            height: 36px;
+            width: 105px;
+            color: rgb(32, 32, 56);
+            border-radius: 20px;
+            margin-right: 50px;
+            margin-top: 100px;
+           }
+           .discount{
+            height: 36px;
+            width: 100px;
+            border-radius: 20px;
+            background-color: rgb(32, 32, 56);
+            color: white;
+            margin-right: 100px;
+           }
+           .today{
+            margin-top: 70px;
+           }
+           .state{
+            margin-top: -10px;
+           }
+           .day,.drive{
+            margin-top: -15px;
+           }
+           .eeee{
+            margin-top: -10px;}
+            
